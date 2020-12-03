@@ -1,4 +1,6 @@
-# Create a custom Enfold shortcode (testimonial slider) to pull a custom post type with Advanced Custom Fields data
+# Custom Enfold shortcode 
+
+Testimonial slider - to pull a custom post type with Advanced Custom Fields data
 
 CPT = testimonials
 
